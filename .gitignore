@@ -1,0 +1,5 @@
+*.aux
+*.zsh
+*.log
+*.dvi
+*.out
