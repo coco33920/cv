@@ -1,6 +1,7 @@
 \documentclass[11pt, a4paper]{moderncv}
 \moderncvtheme[purple]{classic}
 \usepackage[utf8]{inputenc}
+\usepackage{moderntimeline}
 \usepackage[top=1.1cm, bottom=1.1cm, left=2cm, right=2cm]{geometry}
 % Largeur de la colonne pour les dates
 \setlength{\hintscolumnwidth}{2.5cm}
@@ -15,15 +16,16 @@
 \extrainfo{Elle/She/They 18F}
 \begin{document}
 \maketitle
+\tlmaxdates{2012}{2022}
 \vspace*{-2.5\baselineskip}
 \section{Scolaire}
-\cventry{2020-2021}{Classe Préparatoire aux Grandes Écoles | MPSI}{Lycée Montaigne}{Bordeaux (33)}{}{}
-\cventry{2017 - 2020}{Baccalauréat Scientifique}{Lycée Gustave Eiffel}{Bordeaux (33)}{Mention Bien}{}
+\tlcventry{2020}{0}{Classe Préparatoire aux Grandes Écoles | MPSI}{Lycée Montaigne}{Bordeaux (33)}{}{}
+\tlcventry{2017}{2020}{Baccalauréat Scientifique}{Lycée Gustave Eiffel}{Bordeaux (33)}{Mention Bien}{}
 \section{Expérience en Développement}
-\cventry{2020 --}{Omega}{Développement}{}{}{Aide au Développement d'Omega, un OS Open Source de calculatrice \newline}
-\cventry{2019 --}{STARFLEET International}{Développement et Administration Système}{USS Versailles}{Section des Sciences}{Développement d'un système client-serveur pour la gestion de rapports à la hiérarchie}
-\cventry{2019 --}{Star Trek French Club}{Développement et Administration Système}{}{}{Développement et exploitation d'un système de génération de quizz automatique en Java \newline}
-\cventry{Depuis 2013}{Personnel}{Développement et Administration Système}{}{}{Développement d'une variété de projets libres}
+\tlcventry{2020}{0}{Omega}{Développement}{}{}{Aide au Développement d'Omega, un OS Open Source de calculatrice \newline}
+\tlcventry{2019}{0}{STARFLEET International}{Développement et Administration Système}{USS Versailles}{Section des Sciences}{Développement d'un système client-serveur pour la gestion de rapports à la hiérarchie}
+\tlcventry{2019}{0}{Star Trek French Club}{Développement et Administration Système}{}{}{Développement et exploitation d'un système de génération de quizz automatique en Java \newline}
+\tlcventry{2013}{0}{Personnel}{Développement et Administration Système}{}{}{Développement d'une variété de projets libres}
 \section{Expérience Professionelle}
 \cventry{Décembre 2017}{Stage d'Observation}{ESI de Bordeaux}{Direction Générale des Finances Publiques}{Bordeaux (33)}{
 \begin{itemize}
