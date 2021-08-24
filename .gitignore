@@ -1,6 +1,9 @@
-*.aux
-*.zsh
-*.log
+*.a 
 *.dvi
+*.log
 *.out
+*.swp
+*.fdb*
+*.fls
+*.synctex*
 *.zsh
