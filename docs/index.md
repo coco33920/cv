@@ -51,6 +51,8 @@ My currently active projects are
 * [Stories](https://agh.nwa2coco.fr) A website to centralise my stories and web novels. Written in Markdown, powered by GH-Page
 * [A Galactic HRT](https://agh.nwa2coco.fr#agh) My main Science-Fiction/Drama/Tragedy/Romance story in PDF/HTML, written in LaTeX converted to HTML later.
 * [Wakatime Libreoffice](https://github.com/coco33920/wakatime-libreoffice) A WIP extension for LibreOffice to provides community support for [wakatime](https://wakatime.com) for LibreOffice/OpenOffice
+
+
 ### Old projects
 These projects are either abandoned or archived, you can use them (most of them are under the MIT Licence, consider those without licences as CC0) but I do not provide any support whatsoever
 
