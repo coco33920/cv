@@ -37,9 +37,10 @@ On HRT for two years now, I legally changed my name to Charlotte Ophélie Margot
 * charlotte.sfiacademy@gmail.com
 * contact@nwa2coco.fr
 
-## Development
+## Code
+
 ### Introduction
-Even if I now focus on my studies in theoretical computer science and mathematics I used to develop a lot, and still do now.
+Even if I now focus on my studies in theoretical computer science and mathematics I used to code a lot, and still do now.
 
 ### Active projects
 My currently active projects are
