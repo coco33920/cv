@@ -22,6 +22,8 @@
 ### About Me
 Hello! I'm Charlotte THOMAS, a 19y.o French girl, computer science and mathematics student in *prépa* preparing the *concours* of France's engineering schools.
 
+I love OCaml! Every project I start now is written in OCaml. If you don't know it go learn a bit about it, it's worth it
+
 ### School
 I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
 
@@ -44,6 +46,7 @@ Even if I now focus on my studies in theoretical computer science and mathematic
 
 ### Active projects
 My currently active projects are
+* [HTMLFromTeXBooks](https://github.com/coco33920/HTMLFromTeXBooks) A simple program to transforms TeX Books (simple) in HTML (for publishing on ScribbleHub for example!)
 * [AngryCAS](https://github.com/coco33920/AngryCAS) The most angry and cynical CAS ever. Written in OCaml using dune
 * [The Baguette#](https://www.baguettesharp.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune
   * The interpreter repository is [here](https://github.com/coco33920/ocaml-baguettesharp-interpreter)
