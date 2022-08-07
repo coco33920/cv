@@ -1,6 +1,6 @@
 <h1 align="center"> Charlotte Thomas </h1>
 <div align="center">
-<a href="img/SPOILER_adorbs.jpg"><img width="300px" src="img/SPOILER_adorbs.jpg"></a>
+<a href="img/pfp.jpg"><img width="300px" src="img/pfp.jpg"></a>
 </div>
 
 ## I, Me, Myself
@@ -20,24 +20,27 @@
 </div>
 
 ### About Me
-Hello! I'm Charlotte THOMAS, a 19y.o French girl, computer science and mathematics student in *prépa* preparing the *concours* of France's engineering schools.
-
-I love OCaml! Every project I start now is written in OCaml. If you don't know it go learn a bit about it, it's worth it
+Hello! I'm Charlotte THOMAS, i'm 20, and i'm currently a Computer Science Student at University of Rennes 1.
+I was formerly in *prépa* but had health related problems, so I switched to University as of next semester (September 2022).
+I study Theoretical Computer Science on the side, focussing on formal languages, I hope to do research in that subject in the future.
+My language of choice is now **Ocaml** and I have ten years of experience coding in *java*
 
 ### School
 I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
+
+I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes 1 University.
 
 ### Working experience
 I spent a month working in the IT department of the French *Direction Générale des Finances Publiques* (which is somewhat equivalent to the IRS to be simple).
 
 ### Queer life
-I'm Queer AF. I'm a transgender intersex girl, *straight* ~~unfortunately~~, based in France. Advocating for trans right and intersex right, I follow an intersectional feminism open to all, in support of all women. 
+I'm a Queer, transgender, intersex and bisexual girl based in France. Advocating for trans right and intersex right, I follow an intersectional feminism open to all, in support of all women. 
 
 As you probably deduced from the badges. Yes. I like the trans flag. A lot.
 
-On HRT for two years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question / ~~submit your application for BF~~ please email me at either one of these addresses:
-* charlotte.sfiacademy@gmail.com
-* contact@nwa2coco.fr
+On HRT for two years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question please email me at either one of these addresses:
+* charlotte.sfiacademy [at] gmail.com
+* contact [at] nwa2coco.fr
 
 ## Code
 
