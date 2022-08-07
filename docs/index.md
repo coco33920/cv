@@ -1,6 +1,6 @@
 <h1 align="center"> Charlotte Thomas </h1>
 <div align="center">
-<a href="img/pfp.jpg"><img width="300px" src="img/pfp.jpg"></a>
+<a href="img/pfp.jpg"><img width="500px" src="img/pfp.jpg"></a>
 </div>
 
 ## I, Me, Myself
@@ -21,8 +21,10 @@
 
 ### About Me
 Hello! I'm Charlotte THOMAS, i'm 20, and i'm currently a Computer Science Student at University of Rennes 1.
-I was formerly in *prépa* but had health related problems, so I switched to University as of next semester (September 2022).
-I study Theoretical Computer Science on the side, focussing on formal languages, I hope to do research in that subject in the future.
+
+I was formerly in *prépa* but due to health related problems I failed, then switched to University as of next semester (September 2022).
+
+I study Theoretical Computer Science on the side, focussing on formal languages, hoping to research in that subject in the future.
 My language of choice is now **Ocaml** and I have ten years of experience coding in *java*
 
 ### School
