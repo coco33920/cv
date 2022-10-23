@@ -51,12 +51,13 @@ Even if I now focus on my studies in theoretical computer science and mathematic
 
 ### Active projects
 My currently active projects are
-* [HTMLFromTeXBooks](https://github.com/coco33920/HTMLFromTeXBooks) A simple program to transforms TeX Books (simple) in HTML (for publishing on ScribbleHub for example!)
-* [AngryCAS](https://github.com/coco33920/AngryCAS) The most angry and cynical CAS ever. Written in OCaml using dune
-* [The Baguette#](https://www.baguettesharp.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune
+* [STARFinder](https://github.com/coco33920/STARFinder) : A project to learn Scala and its Java-interaction features, find your bus stops in Rennes with a simple 
+  logic language parser 
+* [The Baguette#](https://www.baguettesharp.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune, published under the GPLv3 license
   * The interpreter repository is [here](https://github.com/coco33920/ocaml-baguettesharp-interpreter)
   * The VSCode Extension repository is [here](https://github.com/coco33920/baguette-sharp-vscode)
   * The WebInterpreter (with js_of_ocaml) repository is [here](https://github.com/coco33920/baguette-sharp-vscode)
+* [AngryCAS](https://github.com/coco33920/AngryCAS) The most angry and cynical CAS ever. Written in OCaml using dune
 * [Stories](https://agh.nwa2coco.fr) A website to centralise my stories and web novels. Written in Markdown, powered by GH-Page
 * [A Galactic HRT](https://agh.nwa2coco.fr#agh) My main Science-Fiction/Drama/Tragedy/Romance story in PDF/HTML, written in LaTeX converted to HTML later.
 * [Wakatime Libreoffice](https://github.com/coco33920/wakatime-libreoffice) A WIP extension for LibreOffice to provides community support for [wakatime](https://wakatime.com) for LibreOffice/OpenOffice
@@ -65,6 +66,7 @@ My currently active projects are
 ### Old projects
 These projects are either abandoned or archived, you can use them (most of them are under the MIT Licence, consider those without licences as CC0) but I do not provide any support whatsoever
 
+* [HTMLFromTeXBooks](https://github.com/coco33920/HTMLFromTeXBooks) A simple program to transforms TeX Books (simple) in HTML (for publishing on ScribbleHub for example!)
 * [Automatic Report System](https://github.com/sfi-region9/) a client-server ecosystem mostly written in Java to automate reports to a hierarchy composed of
   * [Automatic Report Server](https://github.com/sfi-region9/AutomaticReportServer) The server written in Java, powered by SparkJava
   * [Automatic Report Website](https://github.com/sfi-region9/ARS-Website) The new web-based client, written in Java, powered by Vaadin
