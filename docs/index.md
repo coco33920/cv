@@ -30,7 +30,7 @@ My language of choice is now **Ocaml** and I have ten years of experience coding
 ### School
 I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
 
-I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes 1 University.
+I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes 1 University. In second year of a BSc, majoring in CS.
 
 ### Working experience
 I spent a month working in the IT department of the French *Direction Générale des Finances Publiques* (which is somewhat equivalent to the IRS to be simple).
@@ -40,23 +40,21 @@ I'm a Queer, transgender, intersex and bisexual girl based in France. Advocating
 
 As you probably deduced from the badges. Yes. I like the trans flag. A lot.
 
-On HRT for two years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question please email me at either one of these addresses:
+On HRT for three years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question please email me at either one of these addresses:
 * charlotte.sfiacademy [at] gmail.com
 * contact [at] nwa2coco.fr
 
-## Code
+## Projects (dev)
 
 ### Introduction
 Even if I now focus on my studies in theoretical computer science and mathematics I used to code a lot, and still do now.
 
+### Highlights
+* [The Baguette#](https://www.baguettesharp.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune, published under the GPLv3 license
+* [STARFinder](https://github.com/coco33920/STARFinder) : A project to learn Scala and its Java-interaction features, find your bus stops in Rennes with a logic language parser
+
 ### Active projects
 My currently active projects are
-* [STARFinder](https://github.com/coco33920/STARFinder) : A project to learn Scala and its Java-interaction features, find your bus stops in Rennes with a simple 
-  logic language parser 
-* [The Baguette#](https://www.baguettesharp.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune, published under the GPLv3 license
-  * The interpreter repository is [here](https://github.com/coco33920/ocaml-baguettesharp-interpreter)
-  * The VSCode Extension repository is [here](https://github.com/coco33920/baguette-sharp-vscode)
-  * The WebInterpreter (with js_of_ocaml) repository is [here](https://github.com/coco33920/baguette-sharp-vscode)
 * [AngryCAS](https://github.com/coco33920/AngryCAS) The most angry and cynical CAS ever. Written in OCaml using dune
 * [Stories](https://agh.nwa2coco.fr) A website to centralise my stories and web novels. Written in Markdown, powered by GH-Page
 * [A Galactic HRT](https://agh.nwa2coco.fr#agh) My main Science-Fiction/Drama/Tragedy/Romance story in PDF/HTML, written in LaTeX converted to HTML later.
