@@ -40,7 +40,7 @@ I'm a Queer, transgender, intersex and bisexual girl based in France. Advocating
 
 As you probably deduced from the badges. Yes. I like the trans flag. A lot.
 
-On HRT for three years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question please email me at either one of these addresses:
+On HRT for three(') years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question please email me at either one of these addresses:
 * charlotte.sfiacademy [at] gmail.com
 * contact [at] nwa2coco.fr
 
@@ -51,6 +51,7 @@ Even if I now focus on my studies in theoretical computer science and mathematic
 
 ### Highlights
 * [The Baguette#](https://www.baguettesharp.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune, published under the GPLv3 license
+* [Boulangerie](https://boulangerie.baguettesharp.fr), part of the Baguette# ecosystem, discover Boulangerie, the Baguette# package manager
 * [STARFinder](https://github.com/coco33920/STARFinder) : A project to learn Scala and its Java-interaction features, find your bus stops in Rennes with a logic language parser
 
 ### Active projects
