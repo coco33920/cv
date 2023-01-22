@@ -32,6 +32,8 @@ I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux]
 
 I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes 1 University. In second year of a BSc, majoring in CS.
 
+In parralel I'm in a research internship at IRISA/INRIA Rennes, [Team PACAP](https://team.inria.fr/pacap/presentation/) from february until July, where I will work on OFast3D to optimize code, starting with mathematical transformation of GCode.
+
 ### Working experience
 I spent a month working in the IT department of the French *Direction Générale des Finances Publiques* (which is somewhat equivalent to the IRS to be simple).
 
