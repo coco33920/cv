@@ -1,0 +1,16 @@
+diff --git a/cv_one_page_2022.tex b/cv_one_page_2022.tex
+index 8e86cb9..b5a3184 100644
+--- a/cv_one_page_2022.tex
++++ b/cv_one_page_2022.tex
+@@ -8,9 +8,9 @@
+ \firstname{Charlotte}
+ \familyname{Thomas}
+ \title{Étudiante | Développeuse}
+-\address{}{35000 Rennes}
++\address{67 Rue Alphonse Guérin}{35000 Rennes}
+ \email{contact@nwa2coco.fr}
+-\mobile{06 00 00 00 00}
++\mobile{07 81 96 98 54}
+ \social[github]{coco33920}
+ \social[twitter]{coco33920}
+ \extrainfo{Elle/She/They 20F}
