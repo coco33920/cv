@@ -27,6 +27,11 @@ I was formerly in *prépa* but due to health related problems I failed, then swi
 I study Theoretical Computer Science on the side, focussing on formal languages, hoping to research in that subject in the future.
 My language of choice is now **OCaml** and I have ten years of experience coding in *java*
 
+Links:
+* [HAL CV](https://cv.hal.science/coco33920)
+* [GitHub](https://github.com/coco33920)
+* [Twitter](https://twitter.com/coco33920)
+
 ### School
 I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
 
