@@ -9,4 +9,4 @@
 *.zsh
 patches/*
 patches/
-makefile
+name
