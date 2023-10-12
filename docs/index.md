@@ -20,24 +20,23 @@
 </div>
 
 ### About Me
-Hello! I'm Charlotte THOMAS, i'm 20, and i'm currently a Computer Science Student at University of Rennes 1.
+Hello! I'm Charlotte THOMAS, i'm 21, and i'm currently a Computer Science Student at University of Rennes.
 
-I was formerly in *prépa* but due to health related problems I failed, then switched to University as of next semester (September 2022).
+I was formerly in *prépa* but due to health related problems I failed, I then switched to University as of the first the September 2022 semester.
 
 I study Theoretical Computer Science on the side, focussing on formal languages, hoping to research in that subject in the future.
 My language of choice is now **OCaml** and I have ten years of experience coding in *java*
 
 Links:
-* [HAL CV](https://cv.hal.science/coco33920)
 * [GitHub](https://github.com/coco33920)
 * [Twitter](https://twitter.com/coco33920)
 
 ### School
 I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
 
-I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes 1 University. In second year of a BSc, majoring in CS.
+I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes University. In second year of a BSc, majoring in CS.
 
-In parralel I'm in a research internship at IRISA/INRIA Rennes, [Team PACAP](https://team.inria.fr/pacap/presentation/) from february until July, where I will work on OFast3D to optimize code, starting with mathematical transformation of GCode.
+Last year I was in research internship at PACAP @ IRISA/Inria Rennes, [Team PACAP](https://team.inria.fr/pacap/presentation/) from february until July, where I worked on 3D printing to optimize code, starting with mathematical transformation of GCode.
 
 ### Working experience
 I spent a month working in the IT department of the French *Direction Générale des Finances Publiques* (which is somewhat equivalent to the IRS to be simple).
@@ -47,9 +46,11 @@ I'm a Queer, transgender, intersex and bisexual girl based in France. Advocating
 
 As you probably deduced from the badges. Yes. I like the trans flag. A lot.
 
-On HRT for three(') years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question please email me at either one of these addresses:
+On HRT for almost four(') years now, I legally changed my name to Charlotte Ophélie Margot, and gender to female, if you need help getting medical health care / starting a transition / have a transgender or intersex related question please email me at either one of these addresses:
 * charlotte.sfiacademy [at] gmail.com
 * contact [at] nwa2coco.fr
+
+You can ask me for a legal transition package which packs a lot of informations to do a legal transition in France. I'll send it to you.
 
 ## Projects (dev)
 
@@ -63,7 +64,6 @@ Even if I now focus on my studies in theoretical computer science and mathematic
 
 ### Active projects
 My currently active projects are
-* [AngryCAS](https://github.com/coco33920/AngryCAS) The most angry and cynical CAS ever. Written in OCaml using dune
 * [Stories](https://agh.nwa2coco.fr) A website to centralise my stories and web novels. Written in Markdown, powered by GH-Page
 * [A Galactic HRT](https://agh.nwa2coco.fr#agh) My main Science-Fiction/Drama/Tragedy/Romance story in PDF/HTML, written in LaTeX converted to HTML later.
 * [Wakatime Libreoffice](https://github.com/coco33920/wakatime-libreoffice) A WIP extension for LibreOffice to provides community support for [wakatime](https://wakatime.com) for LibreOffice/OpenOffice
@@ -72,6 +72,7 @@ My currently active projects are
 ### Old projects
 These projects are either abandoned or archived, you can use them (most of them are under the MIT Licence, consider those without licences as CC0) but I do not provide any support whatsoever
 
+* [AngryCAS](https://github.com/coco33920/AngryCAS) The most angry and cynical CAS ever. Written in OCaml using dune
 * [HTMLFromTeXBooks](https://github.com/coco33920/HTMLFromTeXBooks) A simple program to transforms TeX Books (simple) in HTML (for publishing on ScribbleHub for example!)
 * [Automatic Report System](https://github.com/sfi-region9/) a client-server ecosystem mostly written in Java to automate reports to a hierarchy composed of
   * [Automatic Report Server](https://github.com/sfi-region9/AutomaticReportServer) The server written in Java, powered by SparkJava
