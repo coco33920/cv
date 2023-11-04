@@ -8,8 +8,8 @@
 <a href="https://www.scribblehub.com/profile/49937/coco33920/"><img src="https://img.shields.io/badge/Writting-ScribbleHub-55cdfc?style=for-the-badge&logo=wattpad&logoColor=f7a8d8" alt="Writting - ScribbleHub"></a>
 <br>
 <br>
-<a href="https://github.com/coco33920/cv/blob/master/cv_one_page_2022.pdf"><img src="https://img.shields.io/badge/CV-FR_PDF-55cdfc?style=for-the-badge"></a>
-<a href="https://github.com/coco33920/cv/blob/master/cv_one_page_2022_en.pdf"><img src="https://img.shields.io/badge/CV-EN_PDF-55cdfc?style=for-the-badge"></a>
+<a href="https://github.com/coco33920/cv/blob/master/cv_2023.pdf"><img src="https://img.shields.io/badge/CV-FR_PDF-55cdfc?style=for-the-badge"></a>
+<a href="https://github.com/coco33920/cv/blob/master/cv_2023_en.pdf"><img src="https://img.shields.io/badge/CV-EN_PDF-55cdfc?style=for-the-badge"></a>
 <br>
 <a href="https://www.baguettesharp.fr"><img src="https://img.shields.io/badge/Web-Baguette%23-inactive?style=for-the-badge" alt="Web - Baguette#"></a>
 <a href="https://agh.nwa2coco.fr"><img src="https://img.shields.io/badge/Web-Public_Stories-inactive?style=for-the-badge" alt="Web - Public Stories"></a>
