@@ -1,4 +1,5 @@
 #import "templates/moderncv.typst/moderncv.typ": *
+#import "@preview/stonewall:0.1.0": polygender
 
 #show: project.with(
   title: "Developer/Student",
@@ -6,8 +7,8 @@
   github: "coco33920",
   phone: "+33 6 00 00 00 00",
   email: "charlotte@nwa2coco.fr",
-  main_color: gradient.linear(..color.map.crest),
-  heading_color: gradient.linear(..color.map.crest),
+  main_color: gradient.linear(..polygender),
+  heading_color: gradient.linear(..polygender),
   pronouns: "She/They 21F",
   address: [35000 Rennes]
 )
