@@ -34,7 +34,7 @@ Links:
 ### School
 I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
 
-I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes University. In second year of a BSc, majoring in CS.
+I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes University. In third year of a BSc, majoring in CS.
 
 Last year I was in research internship at PACAP @ IRISA/Inria Rennes, [Team PACAP](https://team.inria.fr/pacap/presentation/) from february until July, where I worked on 3D printing to optimize code, starting with mathematical transformation of GCode.
 
