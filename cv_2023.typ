@@ -80,7 +80,7 @@
   language_name: "Java",
   icon_name: "icons/brand-java.svg",
   language_colour: rgb("5382A1"),
-  description: [*Projets Personnels*, _Développement et Administration Système_, Développement d'une variété de logiciels libres, voir plus sur ma page #link("https://github.com/coco33920","GitHub")]
+  description: [*Projets Personnels*, _Développement et Administration Système_, Développement de logiciels libres, voir sur #link("https://github.com/coco33920","GitHub")]
 )
 
 = Expérience Professionnelle 
@@ -99,12 +99,7 @@
 
 #cvlanguage(
   language: [_Langages_],
-  description: [Java, OCaml, SQL, JavaScript, LaTeX, Typst]
-)
-
-#cvlanguage(
-  language: [_Admin._],
-  description: [Apache2, MySQL, NodeJS, SparkJava, NGINX proxies]
+  description: [Java, OCaml, Scala, Rust, SQL, JavaScript, LaTeX, Typst]
 )
 
 #cvlanguage(
