@@ -13,8 +13,8 @@
   address: [35000 Rennes]
 )
 
-= Scolaire
 
+= Scolaire
 #cventry(
   start: (month: "Septembre", year: 2022),
   end: (month: "Juin", year: 2024),
@@ -42,30 +42,44 @@
 )
 
 = Projet Principaux
-#cvlanguage(
+
+#cvprogramming(
+  language: [2023 - ],
+  language_name: "Rust",
+  icon_name: "icons/brand-rust.svg",
+  language_colour: rgb("b7410e"),
+  description: [*Calc*, _Développement, Théorie des languages_, Une calculatrice minimaliste configurable, GPLv3 sur #link("https://github.com/coco33920/calc","GitHub")]
+)
+#cvprogramming(
   language: [2022 - ],
+  language_name: "Scala",
+  icon_name: "icons/brand-scala.svg",
+  language_colour: rgb("cd322f"),
   description: [*STARFinder*, _Développement_, Chercher un arrêt de bus répondant à des règles logiques, GPLv3 sur #link("https://github.com/coco33920/STARFinder","GitHub")]
 )
-
-#cvlanguage(
-  language: [2022 - ],
-  description: [*Boulangerie*, _Baguette\# Package Manager_, GPLv3 sur #link("https://github.com/coco33920/boulangerie","GitHub")]
-)
-
-#cvlanguage(
+#cvprogramming(
   language: [2021 - ],
+  language_name: " OCaml",
+  icon_name: "icons/brand-ocaml.svg",
+  language_colour: rgb("ee6a1a"),
   description: [*Baguette\#*, _Théorie des Langages/Développement_, Développement d'un interpréteur et REPL multiplateforme pour un langage ésotérique, GPLv3 sur #link("https://github.com/coco33920/STARFinder","GitHub")]
 )
 
 = Autres Projets
 
-#cvlanguage(
+#cvprogramming(
   language: [2020 - 2022],
+  language_name: "C++",
+  icon_name: "icons/brand-cpp.svg",
+  language_colour: rgb("3c3c3c"),
   description: [*Omega*, _Développement_, Participation à un _firmware_ communautaire pour les calculatrices Numworks.]
 )
 
-#cvlanguage(
+#cvprogramming(
   language: [2013 -],
+  language_name: "Java",
+  icon_name: "icons/brand-java.svg",
+  language_colour: rgb("5382A1"),
   description: [*Projets Personnels*, _Développement et Administration Système_, Développement d'une variété de logiciels libres, voir plus sur ma page #link("https://github.com/coco33920","GitHub")]
 )
 
