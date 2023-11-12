@@ -42,30 +42,44 @@
 )
 
 = Projet Principaux
-#cvlanguage(
+
+#cvprogramming(
   language: [2022 - ],
+  language_name: "Rust",
+  icon_name: "icons/brand-rust.svg",
+  language_colour: rgb("b7410e"),
+  description: [*Calc*, _Programming, Language Theory_,A minimalistic configurable rust calculator, GPLv3 on #link("https://github.com/coco33920/calc","GitHub")]
+)
+#cvprogramming(
+  language: [2022 - ],
+  language_name: "Scala",
+  icon_name: "icons/brand-scala.svg",
+  language_colour: rgb("cd322f"),
   description: [*STARFinder*, _Programming_, Lookup a bus stop by filtering them by logic rules!, GPLv3 on #link("https://github.com/coco33920/STARFinder","GitHub")]
 )
-
-#cvlanguage(
-  language: [2022 - ],
-  description: [*Boulangerie*, _Baguette\# Package Manager_, GPLv3 on #link("https://github.com/coco33920/boulangerie","GitHub")]
-)
-
-#cvlanguage(
+#cvprogramming(
   language: [2021 - ],
+  language_name: " OCaml",
+  icon_name: "icons/brand-ocaml.svg",
+  language_colour: rgb("ee6a1a"),
   description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPLv3 on #link("https://github.com/coco33920/STARFinder","GitHub")]
 )
 
 = Autres Projets
 
-#cvlanguage(
+#cvprogramming(
   language: [2020 - 2022],
+  language_name: "C++",
+  icon_name: "icons/brand-cpp.svg",
+  language_colour: rgb("3c3c3c"),
   description: [*Omega*, _Programming_ , Developer on a collaborative firmware for Numworks calculators]
 )
 
-#cvlanguage(
+#cvprogramming(
   language: [2013 - ],
+  language_name: "Java",
+  icon_name: "icons/brand-java.svg",
+  language_colour: rgb("5382A1"),
   description: [*Various Personnal Projects*, _Programming and System Administration_, Page #link("https://github.com/coco33920","GitHub")]
 )
 

@@ -5,6 +5,9 @@ english: cv_2023_en.typ
 watch: french
 	evince cv_2023.pdf &
 	typst w cv_2023.typ
+watch_en: english
+	evince cv_2023_en.pdf &
+	typst w cv_2023_en.typ
 all:
 	make french
 	make english
