@@ -5,7 +5,7 @@
   title: "Developer/Student",
   author: "Charlotte Thomas",
   github: "coco33920",
-  phone: "+33 6 00 00 00 00",
+  phone: "+33 6 00 00 00",
   email: "charlotte@nwa2coco.fr",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
@@ -13,7 +13,7 @@
   address: [35000 Rennes]
 )
 
-= Scolaire
+= School
 
 #cventry(
   start: (month: "September", year: 2022),
@@ -29,7 +29,7 @@
   place: "Lycée Montaigne, France, Bordeaux (33)"
 )[]
 
-= Académique
+= Academia/Talks
 
 #cvlanguage(
   language: [June 2023],
@@ -41,7 +41,7 @@
   description: [*Research Internship*, _IRISA/Inria Rennes_, Team PACAP, France, Rennes (35)]
 )
 
-= Projet Principaux
+= Highlights
 
 #cvprogramming(
   language: [2022 - ],
@@ -65,7 +65,7 @@
   description: [*Baguette\#*, _Language Theory/Programming_, Creation of an interpreter and REPL of a new esoteric programming language, GPLv3 on #link("https://github.com/coco33920/STARFinder","GitHub")]
 )
 
-= Autres Projets
+= Other projects
 
 #cvprogramming(
   language: [2020 - 2022],
@@ -83,14 +83,14 @@
   description: [*Various Personnal Projects*, _Programming and System Administration_, Page #link("https://github.com/coco33920","GitHub")]
 )
 
-= Expérience Professionnelle 
+= Working experience
 #cvlanguage(
   language: [2020],
   description: [*Vacataire*, _French Tax Division_, ESI de Bordeaux, Bordeaux (33)\ \
   - Proximity Assistance]
 )
 
-= Compétences
+= Skills
 
 #cvlanguage(
   language: [_OS_],
