@@ -13,7 +13,6 @@
   address: [35000 Rennes]
 )
 
-
 = Scolaire
 #cventry(
   start: (month: "Septembre", year: 2022),
@@ -48,14 +47,17 @@
   language_name: "Rust",
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
-  description: [*Calc*, _Développement, Théorie des languages_, Une calculatrice minimaliste configurable, GPLv3 sur #link("https://github.com/coco33920/calc","GitHub")]
+  description: [*Tinysh*, _Développement_, Un mini-shellpour apprendre à faire
+des shells, disponible en GPLv3 sur
+#link("https://gitub.com/coco33920/tinysh","GitHub")]
 )
+
 #cvprogramming(
-  language: [2022 - ],
-  language_name: "Scala",
-  icon_name: "icons/brand-scala.svg",
-  language_colour: rgb("cd322f"),
-  description: [*STARFinder*, _Développement_, Chercher un arrêt de bus répondant à des règles logiques, GPLv3 sur #link("https://github.com/coco33920/STARFinder","GitHub")]
+  language: [2023 - ],
+  language_name: "Rust",
+  icon_name: "icons/brand-rust.svg",
+  language_colour: rgb("b7410e"),
+  description: [*Calc*, _Développement, Théorie des languages_, Une calculatrice minimaliste configurable, GPLv3 sur #link("https://github.com/coco33920/calc","GitHub")]
 )
 #cvprogramming(
   language: [2021 - ],
@@ -67,6 +69,13 @@
 
 = Autres Projets
 
+#cvprogramming(
+  language: [2022 - ],
+  language_name: "Scala",
+  icon_name: "icons/brand-scala.svg",
+  language_colour: rgb("cd322f"),
+  description: [*STARFinder*, _Développement_, Chercher un arrêt de bus répondant à des règles logiques, GPLv3 sur #link("https://github.com/coco33920/STARFinder","GitHub")]
+)
 #cvprogramming(
   language: [2020 - 2022],
   language_name: "C++",
@@ -86,9 +95,9 @@
 = Expérience Professionnelle 
 #cvlanguage(
   language: [2020],
-  description: [*Vacataire*, _Direction Générale des Finances Publiques_, ESI de Bordeaux, Bordeaux (33)\ \
-  - Assistance de proximité (Cellule Informatique Départementale 33)]
-)
+  description: [*Vacataire*, _Direction Générale des Finances Publiques_, ESI de
+Bordeaux, Bordeaux (33)])
+
 
 = Compétences
 

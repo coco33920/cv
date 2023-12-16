@@ -66,6 +66,7 @@ See my [pronouns page here](https://en.pronouns.page/@charlotte4)
 ### Highlights / Active projects
 My favourite projets / active are:
 
+* [Tinysh](https://tinysh.nwa2coco.fr): A really tiny shell built for education purpose only, licenced on GPLv3 on [GitHub](https://github.com/coco33920/tinysh)
 * [Calc](https://calc.nwa2coco.fr): A fully featured minimalistic rust calculator, licensed in GPLv3, available on [GitHub](https://github.com/coco33920/calc)
 * [The Baguette#](https://baguettesharp.nwa2coco.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune, published under the GPLv3 license
 * [Boulangerie](https://github.com/coco33920/boulangerie), part of the Baguette# ecosystem, discover Boulangerie, the Baguette# package manager
