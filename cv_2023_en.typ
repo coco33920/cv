@@ -5,7 +5,7 @@
   title: "Developer/Student",
   author: "Charlotte Thomas",
   github: "coco33920",
-  phone: "+33 6 00 00 00",
+  phone: "+33 6 00 00 00 00",
   email: "charlotte@nwa2coco.fr",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
