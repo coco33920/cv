@@ -47,7 +47,7 @@
   language_name: "Rust",
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
-  description: [*Tinysh*, _Développement_, Un mini-shellpour apprendre à faire
+  description: [*Tinysh*, _Développement_, Un mini-shell pour apprendre à faire
 des shells, disponible en GPLv3 sur
 #link("https://gitub.com/coco33920/tinysh","GitHub")]
 )
