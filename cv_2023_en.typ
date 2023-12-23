@@ -58,7 +58,7 @@
   language_name: "Rust",
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
-  description: [*Calc*, _Programming, Language Theory_,A minimalistic configurable rust calculator, GPLv3 on #link("https://github.com/coco33920/calc","GitHub")]
+  description: [*Calc*, _Programming, Language Theory_, A minimalistic configurable rust calculator, GPLv3 on #link("https://github.com/coco33920/calc","GitHub")]
 )
 #cvprogramming(
   language: [2021 - ],
@@ -82,7 +82,7 @@
   language_name: "C++",
   icon_name: "icons/brand-cpp.svg",
   language_colour: rgb("3c3c3c"),
-  description: [*Omega*, _Programming_ , Developer on a collaborative firmware for Numworks calculators]
+  description: [*Omega*, _Programming_, Developer on a collaborative firmware for Numworks calculators]
 )
 
 #cvprogramming(
