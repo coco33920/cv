@@ -43,15 +43,6 @@
 
 = Highlights
 
-#cvprogramming(
-  language: [2023 - ],
-  language_name: "Rust",
-  icon_name: "icons/brand-rust.svg",
-  language_colour: rgb("b7410e"),
-  description: [*Tinysh* _Programming_, A tiny shell to learn to do shells,
-  available in GPLv3 on
-#link("https://gitub.com/coco33920/tinysh","GitHub")]
-)
 
 #cvprogramming(
   language: [2022 - ],

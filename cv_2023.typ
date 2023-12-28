@@ -47,16 +47,6 @@
   language_name: "Rust",
   icon_name: "icons/brand-rust.svg",
   language_colour: rgb("b7410e"),
-  description: [*Tinysh*, _Développement_, Un mini-shell pour apprendre à faire
-des shells, disponible en GPLv3 sur
-#link("https://gitub.com/coco33920/tinysh","GitHub")]
-)
-
-#cvprogramming(
-  language: [2023 - ],
-  language_name: "Rust",
-  icon_name: "icons/brand-rust.svg",
-  language_colour: rgb("b7410e"),
   description: [*Calc*, _Développement, Théorie des languages_, Une calculatrice minimaliste configurable, GPLv3 sur #link("https://github.com/coco33920/calc","GitHub")]
 )
 #cvprogramming(
