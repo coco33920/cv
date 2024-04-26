@@ -33,7 +33,7 @@ Links:
 * [Twitter](https://twitter.com/coco33920)
 
 ## School
-I spent the last two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
+I spent two years in *prépa* in [Lycée Michel de Montaigne, Bordeaux](http://montaigne-bordeaux.fr) before that I prepared the French High School Diploma at [Lycée Gustave Eiffel, Bordeaux](https://www.eiffel-bordeaux.org/).
 
 I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes University. In third year of a BSc, majoring in CS.
 
@@ -49,7 +49,7 @@ I'm now at [ISTIC](https://istic.univ-rennes1.fr/), Beaulieu Campus, Rennes Univ
 I spent a month working in the IT department of the French *Direction Générale des Finances Publiques* (which is somewhat equivalent to the IRS to be simple).
 
 ##  Queer life
-I'm a Queer, transgender, intersex and asexual girl based in France. Advocating for trans right and intersex right, I follow an intersectional feminism open to all, in support of all women. 
+I'm a Queer, transgender, intersex and asexual woman based in France. Advocating for trans right and intersex right, I follow an intersectional feminism open to all, in support of all women. 
 
 As you probably deduced from the badges. Yes. I like the trans flag. A lot.
 
@@ -66,17 +66,16 @@ See my [pronouns page here](https://en.pronouns.page/@charlotte4)
 ### Highlights / Active projects
 My favourite projets / active are:
 
-* [Tinysh](https://tinysh.nwa2coco.fr): A really tiny shell built for education purpose only, licenced on GPLv3 on [GitHub](https://github.com/coco33920/tinysh)
 * [Calc](https://calc.nwa2coco.fr): A fully featured minimalistic rust calculator, licensed in GPLv3, available on [GitHub](https://github.com/coco33920/calc)
 * [The Baguette#](https://baguettesharp.nwa2coco.fr) ecosystem : currently the interpreter is finished, being uploaded on the OPAM repositories. Written in OCaml using dune, published under the GPLv3 license
 * [Boulangerie](https://github.com/coco33920/boulangerie), part of the Baguette# ecosystem, discover Boulangerie, the Baguette# package manager
-* [STARFinder](https://github.com/coco33920/STARFinder) : A project to learn Scala and its Java-interaction features, find your bus stops in Rennes with a logic language parser
 
 
 ### Old projects
 These projects are either abandoned or archived, you can use them (most of them are under the MIT Licence, consider those without licences as CC0) but I do not provide any support whatsoever
 
 
+* [STARFinder](https://github.com/coco33920/STARFinder) : A project to learn Scala and its Java-interaction features, find your bus stops in Rennes with a logic language parser
 * [Stories](https://agh.nwa2coco.fr) A website to centralise my stories and web novels. Written in Markdown, powered by GH-Page
 * [A Galactic HRT](https://agh.nwa2coco.fr#agh) My main Science-Fiction/Drama/Tragedy/Romance story in PDF/HTML, written in LaTeX converted to HTML later.
 * [Wakatime Libreoffice](https://github.com/coco33920/wakatime-libreoffice) A WIP extension for LibreOffice to provides community support for [wakatime](https://wakatime.com) for LibreOffice/OpenOffice
