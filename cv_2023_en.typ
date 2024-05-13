@@ -31,15 +31,25 @@
 
 = Academia/Talks
 
+#cventry(
+  start: (month: "May", year: 2024),
+  end: (month: "July", year: 2024),
+  role: "Research Internship",
+  place: "Inria Rennes, EPICURE, France, Rennes (35)"
+)[]
+
 #cvlanguage(
-  language: [June 2023],
+  language: [],
   description: [*Talk*, _Pas Sage En Seine_, France, Choisy-Le-Roi (94), Esoteric programmation and its place in the education system]
 )
 
-#cvlanguage(
-  language: [February - July 2023],
-  description: [*Research Internship*, _IRISA/Inria Rennes_, Team PACAP, France, Rennes (35)]
-)
+#cventry(
+  start: (month: "February", year: 2023),
+  end: (month: "July", year: 2023),
+  role: "Research Internship",
+  place: "Inria Rennes, PACAP, France, Rennes (35)"
+)[]
+
 
 = Highlights
 

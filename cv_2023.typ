@@ -21,24 +21,33 @@
   place: "Université de Rennes, Rennes (35)"
 )[]
 
+
 #cventry(
   start: (month: "Septembre", year: 2020),
   end: (month: "Juin", year: 2022),
   role: [Classe Préparatoire aux Grandes Écoles | MPSI/MP],
   place: "Lycée Montaigne, Bordeaux (33)"
 )[]
-
 = Académique
 
+#cventry(
+  start: (month: "Mai", year: 2024),
+  end: (month: "Juillet", year: 2024),
+  role: [*Stage de Recherche*],
+  place: "Centre Inria de l'Université de Rennes, EPICURE, Rennes (35)"
+)[]
+
 #cvlanguage(
-  language: [Juin 2023],
+  language: [],
   description: [*Conférence*, _Pas Sage En Seine_, Choisy-Le-Roi (94), La programmation ludique exotique : le cas du Baguette\#]
 )
 
-#cvlanguage(
-  language: [Février - Juillet 2023],
-  description: [*Stage de Recherche*, _IRISA/Inria Rennes_, Equipe PACAP, Rennes (35)]
-)
+#cventry(
+  start: (month: "Février", year: 2023),
+  end: (month: "Juillet", year: 2023),
+  role: [*Stage de Recherche*],
+  place: "IRISA/Inria Rennes, Equipe PACAP, Rennes (35)",
+)[]
 
 = Projet Principaux
 
