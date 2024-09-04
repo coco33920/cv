@@ -2,16 +2,25 @@
 #import "@preview/stonewall:0.1.0": polygender
 
 #show: project.with(
-  title: "Développeuse/Étudiante",
+  title: "IFiP Stagiaire",
   author: "Charlotte Thomas",
   github: "coco33920",
-  phone: "+33 7 00 00 00 00",
+  phone: "+33 7 81 96 98 54",
   email: "charlotte@nwa2coco.fr",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
   pronouns: "Elle/She/They 22F",
-  address: [35000 Rennes]
+  address: [2 Allée Antoine Osète, 31100 Toulouse]
 )
+
+
+= Expérience Professionnelle 
+#cventry(
+  start: (month: "Septembre", year: 2024),
+  end: (month: "Septembre", year: 2025),
+  role: [Inspectrice des Finances Publiques PSE Stagiaire],
+  place: "ENFiP Toulouse"
+)[]
 
 = Scolaire
 #cventry(
@@ -28,14 +37,16 @@
   role: [Classe Préparatoire aux Grandes Écoles | MPSI/MP],
   place: "Lycée Montaigne, Bordeaux (33)"
 )[]
+
 = Académique
 
 #cventry(
   start: (month: "Mai", year: 2024),
   end: (month: "Juillet", year: 2024),
   role: [*Stage de Recherche*],
-  place: "Centre Inria de l'Université de Rennes, EPICURE, Rennes (35)"
-)[]
+  place: "Inria Rennes, EPICURE, Rennes (35)"
+)[Reconnaissance morphologique de plante à l'aide d'une base de données de
+traits définits dans un modèle en théorie des langages de programmations]
 
 #cvlanguage(
   language: [],
@@ -47,7 +58,8 @@
   end: (month: "Juillet", year: 2023),
   role: [*Stage de Recherche*],
   place: "IRISA/Inria Rennes, Equipe PACAP, Rennes (35)",
-)[]
+)[Implémentations mathématiques dans un logiciel d'analyse du G-Code en
+théorie des langages]
 
 = Projet Principaux
 
@@ -69,13 +81,6 @@
 = Autres Projets
 
 #cvprogramming(
-  language: [2022 - ],
-  language_name: "Scala",
-  icon_name: "icons/brand-scala.svg",
-  language_colour: rgb("cd322f"),
-  description: [*STARFinder*, _Développement_, Chercher un arrêt de bus répondant à des règles logiques, GPLv3 sur #link("https://github.com/coco33920/STARFinder","GitHub")]
-)
-#cvprogramming(
   language: [2020 - 2022],
   language_name: "C++",
   icon_name: "icons/brand-cpp.svg",
@@ -91,23 +96,23 @@
   description: [*Projets Personnels*, _Développement et Administration Système_, Développement de logiciels libres, voir sur #link("https://github.com/coco33920","GitHub")]
 )
 
-= Expérience Professionnelle 
-#cvlanguage(
-  language: [2020],
-  description: [*Vacataire*, _Direction Générale des Finances Publiques_, ESI de
-Bordeaux, Bordeaux (33)])
-
 
 = Compétences
 
 #cvlanguage(
-  language: [_OS_],
+  language: [_Administration Système_],
   description: [Linux (Redhat, CentOS, Debian, Ubuntu)],
 )
 
 #cvlanguage(
   language: [_Langages_],
-  description: [Java, OCaml, Scala, Rust, SQL, JavaScript, LaTeX, Typst]
+  description: [Java, OCaml, Scala, Rust, SQL, Python, JavaScript, LaTeX, Typst]
+)
+
+#cvlanguage(
+  language: [_Services_],
+  description: [Jenkins, Gitlab CI, GitHub Actions, PostgreSQL,
+  Apache 2, NGinx]
 )
 
 #cvlanguage(
