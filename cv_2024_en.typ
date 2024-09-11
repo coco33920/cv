@@ -2,16 +2,25 @@
 #import "@preview/stonewall:0.1.0": polygender
 
 #show: project.with(
-  title: "Developer/Student",
+  title: "IFiP Stagiaire",
   author: "Charlotte Thomas",
   github: "coco33920",
-  phone: "+33 7 00 00 00 00",
+  phone: "+33 7 81 96 98 54",
   email: "charlotte@nwa2coco.fr",
   main_color: gradient.linear(..polygender),
   heading_color: gradient.linear(..polygender),
   pronouns: "She/They 22F",
-  address: [35000 Rennes]
+  address: [2 allée antoine osete \ 31100 Toulouse]
 )
+
+
+= Working experience
+#cventry(
+ start: (month: "September", year: 2024),
+ end: (month: "September", year: 2025),
+ role: [Inspectrice des Finances Publiques Stagiaire PSE],
+ place: "ENFiP Toulouse, France, Toulouse (31)"
+)[]
 
 = School
 
@@ -70,14 +79,6 @@
 )
 
 = Other projects
-
-#cvprogramming(
-  language: [2022 - ],
-  language_name: "Scala",
-  icon_name: "icons/brand-scala.svg",
-  language_colour: rgb("cd322f"),
-  description: [*STARFinder*, _Programming_, Lookup a bus stop by filtering them by logic rules!, GPLv3 on #link("https://github.com/coco33920/STARFinder","GitHub")]
-)
 #cvprogramming(
   language: [2020 - 2022],
   language_name: "C++",
@@ -94,12 +95,6 @@
   description: [*Various Personnal Projects*, _Programming and System Administration_, Page #link("https://github.com/coco33920","GitHub")]
 )
 
-= Working experience
-#cvlanguage(
-  language: [2020],
-  description: [*Vacataire*, _French Tax Division_, ESI de Bordeaux, Bordeaux
-(33)])
-
 = Skills
 
 #cvlanguage(
@@ -114,7 +109,7 @@
 
 #cvlanguage(
   language: [_Admin._],
-  description: [Apache2, MySQL, NodeJS, SparkJava, NGINX proxies]
+  description: [Jenkins, Gitlab CI, GitHub Actions, Apache2, MySQL, NodeJS, SparkJava, NGINX proxies]
 )
 
 #cvlanguage(
