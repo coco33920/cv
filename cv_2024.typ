@@ -61,7 +61,7 @@ traits définits dans un modèle en théorie des langages de programmations]
 )[Implémentations mathématiques dans un logiciel d'analyse du G-Code en
 théorie des langages]
 
-= Projet Principaux
+= Projets Principaux
 
 #cvprogramming(
   language: [2023 - ],
@@ -112,7 +112,7 @@ théorie des langages]
 #cvlanguage(
   language: [_Services_],
   description: [Jenkins, Gitlab CI, GitHub Actions, PostgreSQL,
-  Apache 2, NGinx]
+  Apache 2, NGinx, Git]
 )
 
 #cvlanguage(
