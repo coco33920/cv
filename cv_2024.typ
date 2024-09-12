@@ -112,7 +112,7 @@ théorie des langages]
 #cvlanguage(
   language: [_Services_],
   description: [Jenkins, Gitlab CI, GitHub Actions, PostgreSQL,
-  Apache 2, NGinx, Git]
+  Apache 2, Git]
 )
 
 #cvlanguage(
